@@ -1,0 +1,76 @@
+.login {
+  height: calc(100vh - 50px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.5),
+      rgba(255, 255, 255, 0.5)
+    ),
+    url("../../assets/images/wallpapersden.com_black-panther-wakanda-forever-hd-trinity_1920x1080.jpg");
+  background-size: cover;
+}
+.loginTitle {
+  font-size: 50px;
+}
+.loginForm {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+.loginForm > label {
+  margin: 10px 0;
+}
+.loginInput {
+  padding: 15px;
+  background-color: white;
+  border: none;
+  border-radius: 20px;
+}
+.loginButton {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+  background-color: rgb(179, 19, 19);
+  border: none;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+.loginButton:disabled {
+  cursor: not-allowed;
+  background-color: lightsalmon;
+}
+.loginRegisterButton {
+  position: absolute;
+  top: 60px;
+  right: 20px;
+  background-color: teal;
+  cursor: pointer;
+  border: none;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+}
+.reglog {
+  text-decoration: none;
+  color: blue;
+  margin-bottom: 20px;
+}
+.loginFormWrapper {
+  padding: 5px;
+  background-color: rgba(239, 241, 243, 0.7);
+  box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.3);
+  border-radius: 15px;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10px;
+}
+h4 {
+  margin-bottom: 35px;
+}
