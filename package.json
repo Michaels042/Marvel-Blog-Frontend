@@ -38,5 +38,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:5050/api/"
+  "proxy": "https://marvel-blog-backend.onrender.com/api/"
 }
