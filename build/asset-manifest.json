@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7da42b99.css",
+    "main.js": "/static/js/main.80f37aab.js",
+    "static/media/wallpapersden.com_black-panther-wakanda-forever-hd-trinity_1920x1080.jpg": "/static/media/wallpapersden.com_black-panther-wakanda-forever-hd-trinity_1920x1080.7bc758fd5a77f851bf53.jpg",
+    "static/media/posters-composition-with-3d-cubes.jpg-removebg-preview.png": "/static/media/posters-composition-with-3d-cubes.jpg-removebg-preview.703496926a1eb6a54bad.png",
+    "static/media/1a501ey1uwe91.jpg": "/static/media/1a501ey1uwe91.9dd0eb2faf58f1d3de6e.jpg",
+    "static/media/logo.png": "/static/media/logo.20af3cb06c661ff19021.png",
+    "static/media/person4.png": "/static/media/person4.643236e1d0490b3d2c9b.png",
+    "index.html": "/index.html",
+    "main.7da42b99.css.map": "/static/css/main.7da42b99.css.map",
+    "main.80f37aab.js.map": "/static/js/main.80f37aab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7da42b99.css",
+    "static/js/main.80f37aab.js"
+  ]
+}
